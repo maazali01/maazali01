@@ -24,13 +24,13 @@ Developing a robust OCR system with enhanced precision in reading both printed a
 - Exploring advanced algorithms and their applications in real-world problems.
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/maazali01)
-- [Twitter](https://twitter.com/maazaly18)
-- [Email](mailto:maazali2735@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maazali01)
+- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/maazaly18)
+- [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maazali2735@gmail.com)
 
 ## 💡 Fun Fact
 - I enjoy exploring new music genres and often experiment with creating my own music.
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
 
-![Profile views](https://gpvc.arturio.dev/maazali01)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
