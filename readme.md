@@ -3,21 +3,9 @@
 Welcome to my GitHub profile! I'm passionate about software development, with a particular interest developing different interactive websites, OCR (Optical Character Recognition) projects and building comprehensive portfolios.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Java, JavaScript, HTML, CSS
+- **Languages:** React, Python, C++, Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** OpenCV, pytesseract, pyttsx3, Tkinter
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebooks
-
-## 🖥️ Projects
-### Portfolio Project
-I have developed a comprehensive portfolio to showcase my skills, projects, and achievements. This project highlights my proficiency in web development and design.
-- **Features:** Interactive design, project showcases, and detailed descriptions of my work.
-- **Technologies Used:** HTML, CSS, JavaScript, and various front-end frameworks.
-
-### OCR and Text-to-Speech Conversion
-Developing a robust OCR system with enhanced precision in reading both printed and handwritten text. Integrating text-to-speech conversion to make the system more accessible and user-friendly.
-- **Objective:** To read COCO text with high precision using a webcam.
-- **Technologies:** OpenCV, pytesseract, pyttsx3, Tkinter
-- **Enhancements:** Improving image preprocessing for better accuracy.
 
 ## 🌱 Learning & Growth
 - Continuously improving my skills in machine learning and AI.
